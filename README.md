@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-**💡 Bridging AI, Quantitative Finance, and Blockchain to build the future of financial systems.**
+**💡 Harnessing AI, Quant Finance, and Blockchain to revolutionize financial ecosystems.**
 
-I am a Quantitative Developer & Software Engineer specializing in algorithmic trading, AI-driven risk modeling, full-stack applications, and blockchain innovations. With a BSc in Actuarial Science (with IT), MSc in Financial Engineering, MSc in Development Finance, and a Certificate in Quantitative Finance (CQF), I integrate quantitative research, AI, and full-stack engineering to develop scalable, high-performance systems that optimize capital efficiency, risk management, and market liquidity.
+I am a Quantitative Developer & Software Engineer specializing in algorithmic trading, AI-driven risk modeling, full-stack applications, and blockchain innovations. With a BSc in Actuarial Science (with IT), MSc in Financial Engineering, MSc in Development Finance, and a Certificate in Quantitative Finance (CQF), I integrate quantitative research, AI, and full-stack engineering to develop scalable, high-performance systems that optimize capital efficiency, risk management, and market liquidity. 
+
+**💡 My Mission:**
+To redefine financial eco-systems by leveraging AI, DeFi, and quantitative finance—creating trust-driven, scalable, and inclusive financial solutions that drive sustainable prosperity and capital efficiency.
 
 **⚡ Core Expertise**
 
