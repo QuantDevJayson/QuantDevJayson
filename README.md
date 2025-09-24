@@ -1,8 +1,5 @@
 "The future of finance is decentralized, intelligent, and secure. I'm building it with data, code, and innovation at the intersection of AI, blockchain, and capital."
 
-🌍 Mission
-"To bridge AI, blockchain, and quantitative finance to create secure, high-performance, and inclusive financial systems."
-
 🤝 Let’s Connect
 If you're innovating in DeFi, quant finance, blockchain security, or AI/ML in finance, let’s explore building the next generation of resilient, intelligent, decentralized financial systems.
 
